@@ -41,9 +41,12 @@ This project aims to teach me how to ...
 
 
 ## Installation
+1. Clone this repo
+2. cd into the project directory folder
 ```
-
+ cd path-to-project
 ```
+3. 
 
 
 ## Live Demo
