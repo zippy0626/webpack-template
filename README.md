@@ -46,8 +46,14 @@ This project aims to teach me how to ...
 ```
  cd path-to-project
 ```
-3. 
-
+3. Run npm install while in directory to install package dependencies
+```
+ npm install
+```
+4. Run `npm run build` to generate dist folder
+```
+ npm run build
+```
 
 ## Live Demo
 visit the live demo [here](https://www.addlinkhere).
